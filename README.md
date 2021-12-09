@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaro2300
 - 👀 I’m interested in Unreal Engine 5
 - 🌱 I’m currently learning Unreal Engine 5
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach me jaro2300@gmail.com
 
 <!---
